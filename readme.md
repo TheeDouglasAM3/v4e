@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/y6CuqaI"></p>
+<p align="center"><img src="http://salty-forest-53350.herokuapp.com/img/logo.png"></p>
 
 
 ## Sobre o Videos4Everyone
